@@ -19,7 +19,7 @@ This Python script monitors the status of specified services (httpd, rabbitMQ, a
 
 3. **Run the Script:**
     - Execute the script using the following command:
-   ```bash 
+      ```bash 
         python service_monitor.py
         ```
     - The script will check the status of each service and create a JSON file for each service with the format `{serviceName}-status-{timestamp}.json`.
