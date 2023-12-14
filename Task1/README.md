@@ -1,5 +1,5 @@
 ## Service Monitoring Script README
--developed by Ashen Wijesingha
+-developed by [Ashen Wijesingha](https://github.com/AshenWijesingha)
 
 ### Overview
 
@@ -37,4 +37,4 @@ This Python script monitors the status of specified services (httpd, rabbitMQ, a
 
 - For any issues or special configurations, refer to the script and modify accordingly.
 
-- For more information on the script and its usage, contact [mailto:inbox.ashen@gmail.com].
+- For more information on the script and its usage, contact [inbox.ashen@gmail.com](mailto:inbox.ashen@gmail.com) | +94 78 446 4128.
